@@ -1,4 +1,4 @@
-#Enhanced Mario Kart Interactions
+# Enhanced Mario Kart Interactions
 
 ## Introduction
 Building upon the foundational [Mario Kart](https://github.com/pragnavi/Mario-Kart "Mario Kart")project, this enhanced version introduces students to more sophisticated iOS development concepts. The project simulates a Mario Kart game, focusing on dynamic interactions, game mechanics like powerups and mystery boxes, and customizable settings for a tailored user experience.
